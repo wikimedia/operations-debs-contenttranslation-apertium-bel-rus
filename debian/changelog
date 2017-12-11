@@ -1,3 +1,9 @@
+apertium-bel-rus (0.2.0~r81186-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Depends on cg3 (>= 1.0.0~r12254)
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 11 Dec 2017 10:48:20 +0530
+
 apertium-bel-rus (0.2.0~r81186-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
